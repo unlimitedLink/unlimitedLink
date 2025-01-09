@@ -1,4 +1,4 @@
-### 🛠️ Languages and Tools:
+### Learning:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 <!--
